@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">taller1christianangulo</string>
+    <string name="txe">42</string>
+    <string name="txe1">Stories</string>
+    <string name="txe22">58</string>
+    <string name="txe23">Followers</string>
+    <string name="txe55">75</string>
+    <string name="txe56">Following</string>
+    <string name="ny">BARCELONA F.C</string>
+    <string name="ny1">Fundado el 29 de novimebre de 1899</string>
+    <string name="re">REAL MADRID</string>
+    <string name="re1">Fue  registrada  en 6 de marzo de 1902</string>
+    <string name="ro">LA ROMA</string>
+    <string name="ro1">Fundado en 1927</string>
+</resources>
